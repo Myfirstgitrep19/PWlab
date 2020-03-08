@@ -1,0 +1,9 @@
+E:\PW lab\PWWyk07032020\BMI\BMI\bin\Debug\BMI.exe.config
+E:\PW lab\PWWyk07032020\BMI\BMI\bin\Debug\BMI.exe
+E:\PW lab\PWWyk07032020\BMI\BMI\bin\Debug\BMI.pdb
+E:\PW lab\PWWyk07032020\BMI\BMI\obj\Debug\BMI.csprojAssemblyReference.cache
+E:\PW lab\PWWyk07032020\BMI\BMI\obj\Debug\BMI.Form1.resources
+E:\PW lab\PWWyk07032020\BMI\BMI\obj\Debug\BMI.Properties.Resources.resources
+E:\PW lab\PWWyk07032020\BMI\BMI\obj\Debug\BMI.csproj.GenerateResource.cache
+E:\PW lab\PWWyk07032020\BMI\BMI\obj\Debug\BMI.exe
+E:\PW lab\PWWyk07032020\BMI\BMI\obj\Debug\BMI.pdb
