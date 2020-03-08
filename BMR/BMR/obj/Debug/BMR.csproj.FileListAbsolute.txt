@@ -1,0 +1,9 @@
+E:\PW lab\08032020\BMR\BMR\bin\Debug\BMR.exe.config
+E:\PW lab\08032020\BMR\BMR\bin\Debug\BMR.exe
+E:\PW lab\08032020\BMR\BMR\bin\Debug\BMR.pdb
+E:\PW lab\08032020\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+E:\PW lab\08032020\BMR\BMR\obj\Debug\BMR.Form1.resources
+E:\PW lab\08032020\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+E:\PW lab\08032020\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+E:\PW lab\08032020\BMR\BMR\obj\Debug\BMR.exe
+E:\PW lab\08032020\BMR\BMR\obj\Debug\BMR.pdb
