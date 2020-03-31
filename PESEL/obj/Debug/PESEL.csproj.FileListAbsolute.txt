@@ -1,0 +1,15 @@
+E:\PW lab\08032020\PESEL\PESEL\bin\Debug\PESEL.exe.config
+E:\PW lab\08032020\PESEL\PESEL\bin\Debug\PESEL.exe
+E:\PW lab\08032020\PESEL\PESEL\bin\Debug\PESEL.pdb
+E:\PW lab\08032020\PESEL\PESEL\obj\Debug\PESEL.csprojAssemblyReference.cache
+E:\PW lab\08032020\PESEL\PESEL\obj\Debug\PESEL.Form1.resources
+E:\PW lab\08032020\PESEL\PESEL\obj\Debug\PESEL.Properties.Resources.resources
+E:\PW lab\08032020\PESEL\PESEL\obj\Debug\PESEL.csproj.GenerateResource.cache
+E:\PW lab\08032020\PESEL\PESEL\obj\Debug\PESEL.exe
+E:\PW lab\08032020\PESEL\PESEL\obj\Debug\PESEL.pdb
+C:\Users\DOM\OneDrive - studenci.pwsz.legnica.edu.pl\Semestr IV\PW lab\08032020\PESEL\PESEL\obj\Debug\PESEL.csprojAssemblyReference.cache
+C:\Users\DOM\OneDrive - studenci.pwsz.legnica.edu.pl\Semestr IV\PW lab\08032020\PESEL\PESEL\obj\Debug\PESEL.Form1.resources
+C:\Users\DOM\OneDrive - studenci.pwsz.legnica.edu.pl\Semestr IV\PW lab\08032020\PESEL\PESEL\obj\Debug\PESEL.Properties.Resources.resources
+C:\Users\DOM\OneDrive - studenci.pwsz.legnica.edu.pl\Semestr IV\PW lab\08032020\PESEL\PESEL\obj\Debug\PESEL.csproj.GenerateResource.cache
+C:\Users\DOM\OneDrive - studenci.pwsz.legnica.edu.pl\Semestr IV\PW lab\08032020\PESEL\PESEL\obj\Debug\PESEL.exe
+C:\Users\DOM\OneDrive - studenci.pwsz.legnica.edu.pl\Semestr IV\PW lab\08032020\PESEL\PESEL\obj\Debug\PESEL.pdb
